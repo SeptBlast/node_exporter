@@ -36,3 +36,5 @@ dependencies-stamp
 collector/fixtures/sys/
 
 /vendor
+.dccache
+.vscode/
